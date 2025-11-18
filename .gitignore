@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+**/.DS_Store
+**/*.log
+
+# Contracts
+contracts/artifacts/
+contracts/cache/
+contracts/deployments/
+
+# Frontend
+frontend/.next/
+frontend/.turbo/
+frontend/coverage/
+frontend/.vercel/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+frontend/node_modules/
+
+# Env
+.env*
+*.env
